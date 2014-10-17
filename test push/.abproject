@@ -5,12 +5,12 @@
   "AppIdentifier": "com.telerik.testpush",
   "DisplayName": "test push",
   "Author": "",
-  "Description": "",
+  "Description": "test push",
   "BundleVersion": "1.0",
   "AndroidVersionCode": "1",
   "iOSDeviceFamily": [
     "1",
-	"2"
+    "2"
   ],
   "iOSBackgroundMode": [],
   "WP8TileTitle": "",
